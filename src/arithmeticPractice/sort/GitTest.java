@@ -5,7 +5,8 @@ public class GitTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("git测试");
-		System.out.print("还是git测试");;
+		System.out.print("还是git测试");
+		System.out.println("继续测试");
 	}
 
 }
